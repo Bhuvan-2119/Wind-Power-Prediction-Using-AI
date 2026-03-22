@@ -104,10 +104,10 @@ This project presents an **AI-based Wind Power Prediction System** developed usi
 ---
 
 ## Future Work
- • Integration of IoT sensors for real-time data
- • Development of mobile/web dashboard
- • Use of advanced models (Transformer, CNN-LSTM)
- • Inclusion of additional weather parameters
- • Expansion to multiple wind farm locations
+ - Integration of IoT sensors for real-time data
+ - Development of mobile/web dashboard
+ - Use of advanced models (Transformer, CNN-LSTM)
+ - Inclusion of additional weather parameters
+ - Expansion to multiple wind farm locations
 
 ---
