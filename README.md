@@ -92,7 +92,6 @@ This project presents an **AI-based Wind Power Prediction System** developed usi
 ---
 
 ## Dataset
- - Source: SCADA wind turbine data
  The dataset contains key variables for wind power Prediction, such as:
    - Wind Speed (m/s)
    - Wind Direction (°)
