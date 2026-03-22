@@ -1,4 +1,4 @@
-# Wind Power Prediction Using AI
+# Wind Power Prediction Application
 
 ## Overview
 This project presents an **AI-based Wind Power Prediction System** developed using Long Short-Term Memory (LSTM) networks. The goal is to accurately forecast wind turbine power output by analyzing key environmental and historical parameters. The system leverages time-series modeling to capture temporal dependencies and improve prediction performance. A user-friendly web application is built using Streamlit to enable real-time predictions and interactive analysis. The system aims to improve renewable energy planning, grid stability, and decision-making through data-driven insights.
