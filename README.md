@@ -40,7 +40,7 @@ This project presents an **AI-based Wind Power Prediction System** developed usi
 
   - Interactive UI for user inputs
   - Real-time wind power prediction
-Visualization of:
+  - **Visualization of**:
   - Actual vs Predicted Power
   - Predicted Power vs Wind Speed
 
