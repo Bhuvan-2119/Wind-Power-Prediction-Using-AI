@@ -62,9 +62,9 @@ This project presents an **AI-based Wind Power Prediction System** developed usi
 
 - **Error Metrics**:
 
-  MAE: ~ 0.12
-  MSE: ~ 0.04
-  RMSE: ~ 0.20
+  - MAE: ~ 0.12
+  - MSE: ~ 0.04
+  - RMSE: ~ 0.20
   
 ---
   
