@@ -44,7 +44,7 @@ This project presents an **AI-based Wind Power Prediction System** developed usi
   - Actual vs Predicted Power
   - Predicted Power vs Wind Speed
 
-  ---
+---
   
 ## Technology Stack
 
@@ -55,7 +55,7 @@ This project presents an **AI-based Wind Power Prediction System** developed usi
  - Web Framework: Streamlit
  - Dataset: SCADA wind turbine data (CSV format)
    
- ---
+---
    
 ## Results
  - The LSTM model demonstrated strong predictive performance for wind power forecasting. It achieved an R² score of    approximately 0.92, indicating high accuracy in capturing temporal patterns from the data.
